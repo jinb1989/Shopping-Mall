@@ -1,0 +1,92 @@
+.my_hr{
+    font-size:30px;
+    color:#666;
+}
+/*设置第一块div中大图的样式*/
+
+
+div.my_width{
+    height:8rem;
+}
+@media screen and (max-width:767px){
+    img.my_img1{
+        width:24rem;
+    }
+}
+
+/*第一行第二块img*/
+img.my_img{
+    width:20rem
+}
+table.my_qqq{
+    width:20rem
+}
+@media screen and (max-width:767px){
+    img.mg2{
+        width:18rem;
+        margin-left:0 !important;
+    }
+    .my_mt{
+        margin-top:1rem;
+    }
+}
+
+.my_pr{
+    padding-right:15px !important;
+}
+.carousel-item img{
+    width:100%;
+}
+.table tr td img{
+    width:11rem
+}
+table.my_color tr td div a{
+    color:#515151;
+}
+table.my_color tr td span{
+    color:#aaa;
+    font-size: 0.5rem;
+}
+.my_hover tr td div a:hover{
+    color:#00B4FE;
+    text-decoration:none ;
+}
+.my_xt tr td a:hover{
+    color:#00B4FE;
+    text-decoration:none ;
+}
+.my_bgGary ul,li{
+    margin:0;
+    padding:0;
+}
+.my_bgGary ul{
+    list-style:none;
+}
+.my_bgGary .itemaa{
+    float:left;
+    padding:5px 10px;
+    border:1px solid #555;
+    color:#555;
+    cursor:pointer;
+}
+.my_bgGary .itemaa:not(.active):not(.disabled):hover{
+    box-shadow:0 0 5px #555;
+}
+.my_bgGary .itemaa+.itemaa{
+    border-left:none;
+}
+.my_bgGary .itemaa.active{
+    border:none;
+    border-right:1px solid #555;
+    background:lightBlue;
+}
+.my_bgGary .itemaa.disabled{
+    background:#aaa;
+    cursor:default;
+}
+
+.page-link.active{
+    border:none;
+    border-right:1px solid #aaa;
+    background:lightBlue;
+}

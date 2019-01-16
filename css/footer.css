@@ -1,0 +1,21 @@
+#footer{
+    width:100%;
+    padding:0;
+    margin:0;
+}
+@media screen and (min-width:992px){
+    #footer>div{
+        width:992px;
+        margin: 0 auto;
+    }
+}
+.my_small img{
+   height:2rem
+
+}
+div.my_img img{
+    width:2rem
+}
+p.my_size{
+    font-size: 0.5rem;
+}

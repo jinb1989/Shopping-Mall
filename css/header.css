@@ -1,0 +1,13 @@
+/*设置顶部样式内容*/
+.my_gray{
+    color:#9f9f9f;
+}
+.my_daohang{
+    color:#818182;
+}
+.my_hover:hover{
+    color:#00B4FE;
+}
+.my_size li{
+    font-size:1.5rem;
+}

@@ -1,0 +1,67 @@
+.my_bgGary{
+    background:linear-gradient(to bottom, red,red);
+    border:1px solid red;
+}
+/*加减按钮*/
+.my_btn_gray{
+ background:linear-gradient(to bottom,#f0f0f0,#e0e0e0);
+    width:1.5rem;
+}
+.my_input_w{
+    width:2rem;
+}
+.my_bggw{
+    background:#808080;
+}
+/*右边公告中购物车文本描述的样式*/
+span.text-truncate{
+    width:50% !important;
+}
+.my_border_b{
+    border-bottom: 1px dashed #ddd;
+}
+.my_span_text{
+    font-size: 0.9rem;
+}
+.img_width ul li a img{
+    width:4rem;
+}
+.my_details_hover ul li:hover{
+    border:1px solid #9f9f9f;
+}
+
+.img_width a img{
+    width:17.5rem;
+}
+.img_width{
+    width:1rem;
+}
+.my_relevant_img tr td a img{
+    width:5rem;
+}
+.my_relevant_nav a{
+    font-size: x-small;
+}
+.my_relevant_nav li a:hover{
+    color:#00B4FE;
+}
+.my_b_b {
+    border-bottom: 3px solid #9f9f9f;
+    width: 4.5rem
+}
+.my_p_text{
+    font-size: 2rem;
+}
+.h5_top{
+    border-top:4px solid #16181b;
+    width:7rem
+}
+.b_t{
+    border-top:3px solid #9f9f9f;
+}
+.my_list-group{
+    width:11rem;
+}
+.box_sizing{
+    box-sizing: border-box;
+}

@@ -1,0 +1,25 @@
+.my_ify_color li a{
+    color:#9f9f9f;
+}
+.my_ify_color li a:hover{
+    color: #c81739;
+    text-decoration: none;
+}
+.my_ify_a_color a{
+    color:#16181b;
+}
+.my_ify_a_color a:hover {
+    color: #c81739;
+    text-decoration: none;
+}
+.my_h4_text a{
+    color:#9f9f9f;
+    font-size: 0.8rem;
+}
+.my_h4_text a:hover{
+    color:#c81739;
+    text-decoration: none;
+}
+.my_imput_img{
+    width:1.2rem;
+}
